@@ -14,15 +14,13 @@ main{
     display: flex;
     flex-direction: column;
     padding: 20px;
-    padding-right: 4px;
-    border-radius: 15px;
     background-color: hsl(0, 0%, 100%);
     border: solid;
     border-width: 1px;
 }
 .main-pic{
     border-radius: 10px;
-    max-width: 95%;
+    max-width: 100%;
 }
 .text{
     display: flex;
